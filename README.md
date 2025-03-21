@@ -10,3 +10,4 @@ How to use:
 
 **The output file will be placed in whatever directory the tool itself is stored**
 
+If there is anyway you think i can improve it or if you have any sugestions on python projects to help me learn to program fell free to reach out to me on discord @blanko_zr If you like leave a star thank you.
